@@ -1,23 +1,8 @@
-# Exercício de Casa 🏠 
+# Exercício de Sala 🏫  
 
-# Desafio da Semana 14
+## Nome do Exercicio
 
-**Objetivo:** Por em prática os conhecimentos de Análise de Dados que aprendemos nessa aula.
-
-**Desafio:** Criar um notebook de análise exploratória (como fizemos na nossa aula de hoje) com todas as etapas de coleta, limpeza, análise e visualização com base de dados da Olist.
-
-## Requisitos:
-
-* Formular no mínimo de 2 perguntas (caso queira se desafiar crie pelo mais perguntas além das 2 obrigatórias) para responder com suas análises;
-
-* Utilizar pelo menos 3 bases de dados da Olist (caso você deseje criar sua base do zero). Caso deseje continuar utilizando a que criamos em aula, é necessário incluir pelo menos mais 1 tabela para enriquecer sua análise.
-
-Para responder as perguntas elaboradas usar:
-    * Criar pelo menos 3 gráficos.
-    * Exporte sua base final em csv.
-    * Submeta uma pasta que contenha:
-        * o arquivo seu_nome.ipynb com sua análise exploratória;
-        * a base final criada por você no formato .csv;
+Exercícios nos arquivos: s14_parte1.ipynb e s14_parte2.ipynb
 ---
 
 Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo certinho, combinado?!
@@ -28,4 +13,3 @@ Terminou o exercício? Dá uma olhada nessa checklist e confere se tá tudo cert
 - [ ] Adicionei as mudanças. (`git add .` para adicionar todos os arquivos, ou `git add nome_do_arquivo` para adicionar um arquivo específico)
 - [ ] Commitei a cada mudança significativa ou na finalização do exercício (`git commit -m "Mensagem do commit"`)
 - [ ] Pushei os commits na minha branch (`git push origin nome-da-branch`)
-- [ ] Criei um Pull Request seguindo as orientaçoes que estao nesse [documento](https://github.com/mflilian/repo-example/blob/main/exercicios/para-casa/instrucoes-pull-request.md).
