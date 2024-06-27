@@ -2,6 +2,7 @@
 
 ## Nome do Exercicio
 
+
 Exercícios nos arquivos: s14_parte1.ipynb e s14_parte2.ipynb
 ---
 
