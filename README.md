@@ -1,20 +1,36 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
-# Tema da Aula
+# Reprograma | Bootcamp de Análise de Dados
+## 🚀 Exercícios
+Turma Online on29 | Semana 14 | 2024 | Professora Deborah Foroni
 
-Turma Online 29 | Python | Semana 14 | 2024 | Professora Deborah Foroni
+Este repositório contém os exercícios desenvolvidos durante a **Semana 14** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
 
-### Instruções
-Antes de começar, vamos organizar nosso setup.
-* Fork esse repositório 
-* Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-* Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-* [Add outras intrucoes caso necessario]
+## 📌 Descrição
+Nesta semana, aprofundamos a análise de dados, com foco em técnicas e metodologias para transformar dados brutos em insights valiosos. O objetivo foi realizar uma análise mais profunda, utilizando as bibliotecas Pandas e Matplotlib, para explorar os dados e gerar conclusões que ajudem na tomada de decisões.
 
-### Resumo
-O que veremos na aula de hoje?
+## 🎯 Objetivos do projeto
+- Realizar uma análise exploratória dos dados (EDA).
+- Aplicar técnicas de limpeza e transformação de dados.
+- Criar visualizações para facilitar a interpretação dos resultados.
+- Identificar padrões e gerar insights acionáveis a partir dos dados.
+
+## 📝 Conteúdo do Repositório  
+O repositório está organizado da seguinte maneira:
+- main.py: Código principal onde a análise dos dados, limpeza, transformação e visualização são realizadas.
+- data.csv: Arquivo de dados utilizado para a análise (se aplicável).
+- requirements.txt: Arquivo contendo dependências necessárias para o projeto.
+
+## 🖥️ Tecnologias utilizadas
+- Python: Linguagem de programação utilizada para realizar a análise de dados.
+- Pandas: Biblioteca para manipulação e análise de dados, incluindo funções para limpeza e transformação.
+- Matplotlib/Seaborn: Bibliotecas para visualização de dados.
+- NumPy: Biblioteca para operações matemáticas e estatísticas (se necessário).
+
+
+---
 
 <a name="ancora"></a>
 
